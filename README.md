@@ -1,3 +1,3 @@
 
 
-![image]("./HTML-CSS-JAVASCRIPT/kfc-landing-page.png")
+![image]("kfc-landing-page.png")
